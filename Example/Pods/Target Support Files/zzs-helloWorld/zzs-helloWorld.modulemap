@@ -1,0 +1,6 @@
+framework module zzs_helloWorld {
+  umbrella header "zzs-helloWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}

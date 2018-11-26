@@ -1,0 +1,16 @@
+PODS:
+  - zzs-helloWorld (0.1.0)
+
+DEPENDENCIES:
+  - zzs-helloWorld (from `../`)
+
+EXTERNAL SOURCES:
+  zzs-helloWorld:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zzs-helloWorld: 4f50ce9e4107c43a55a2ce4e2b0e579b859ee927
+
+PODFILE CHECKSUM: 72ef02ffd3fc5cef064e8028175c6818dbc58ada
+
+COCOAPODS: 1.5.3

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'zzs-helloWorld'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of zzs-helloWorld.'
+  s.summary          = '这只是一个瞎比玩的东西'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,13 +19,14 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+瞎比玩一下！
                        DESC
 
-  s.homepage         = 'https://github.com/125772552@qq.com/zzs-helloWorld'
+  s.homepage         = 'https://github.com/iOSzzs/zzs-helloWorld'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '125772552@qq.com' => 'ioszzs' }
-  s.source           = { :git => 'https://github.com/125772552@qq.com/zzs-helloWorld.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/iOSzzs/zzs-helloWorld.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
