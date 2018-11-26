@@ -1,0 +1,6 @@
+use_frameworks!
+target 'zzs-helloWorld_Tests' do
+  pod 'zzs-helloWorld', :path => '../'
+  
+  
+end
